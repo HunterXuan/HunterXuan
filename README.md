@@ -7,7 +7,7 @@
 
 ------
 
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=HunterXuan&show_icons=true&show_icons=true&count_private=true&hide_border=true&title_color=fb83a5&icon_color=fb83a5" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterXuan&show_icons=true&layout=compact&theme=vue&hide_border=true&langs_count=10&title_color=fb83a5" height="170">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HunterXuan&theme=prussian&show_icons=true&count_private=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterXuan&theme=prussian&show_icons=true&count_private=true&layout=compact" height="170">
 </p>
