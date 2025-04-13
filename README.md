@@ -9,7 +9,6 @@
 - [Personal Blog](https://hunterx.xyz)
 - [NYPT](https://nanyangpt.com)
 - [Free Image Hosting](https://i.endpot.com)
-- [Plagiarism & AI Checker](https://turnitin-checker.com)
 - [WIP] [All-in-One Toolkit](https://anything.tools)
 
 ------
